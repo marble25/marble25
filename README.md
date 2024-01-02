@@ -4,8 +4,7 @@ I have been working on various projects such as Game Programming using Unity, An
 Above all, my most favorite progamming language is **Python** 🐍!
 
 ### Github Stats
-[![marble25's GitHub stats](https://github-readme-stats.vercel.app/api?username=marble25)](https://github.com/anuraghazra/github-readme-stats)
-
+[![marble25's GitHub stats](https://github-readme-stats-beige-nine-38.vercel.app/api?username=marble25&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Solved.ac
 [![Solved.ac
